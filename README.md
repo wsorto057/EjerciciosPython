@@ -1,3 +1,3 @@
 # EjerciciosPython
 
-prueba de archivo readmi
+prueba de archivo readme
